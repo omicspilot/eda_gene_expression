@@ -1,6 +1,6 @@
 # EDA on Gene Expression 🧬💻
 
-This project explores different gene expression datasets for different medical cases using python. You get the opportunity to put your skills into practice and possibly learn new ones.
+This project explores GSE2034 gene expression dataset using python. You get the opportunity to put your skills into practice and possibly learn new ones.
 These are to serve as examples of real-life use cases and exclusively for **educational purposes**.
 
 ## GSE2034
@@ -30,8 +30,12 @@ With the GSE2034 breast cancer dataset, it performs basic exploratory data analy
 
 This repository is intended **solely for educational purposes**. The approaches presented here reflect one possible way to explore gene expression data in a biomedical context, but they do **not cover all methodologies**, nor do they imply clinical or diagnostic validity.
 
-I am not responsible for any use, misuse, or interpretation of the code, results, or insights provided in this project. **This is not medical advice.** Use this repository at your own discretion and always consult domain experts or medical professionals when working with clinical or patient-related data.
+**Omics Pilot** team is not responsible for any use, misuse, or interpretation of the code, results, or insights provided in this project.
 
 
 ## License
 MIT
+
+
+## Contribution
+We welcome contributions to this project! If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
