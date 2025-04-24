@@ -1,4 +1,4 @@
-# EDA on Gene Expression
+# EDA on Gene Expression 🧬💻
 
 This project explores different gene expression datasets for different medical cases using python. You get the opportunity to put your skills into practice and possibly learn new ones.
 These are to serve as examples of real-life use cases for **educational purposes**.
