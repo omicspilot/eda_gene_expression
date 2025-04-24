@@ -5,3 +5,8 @@ seaborn
 scipy
 plotly
 jupyterlab
+sklearn
+tensorflow
+ipywidgets
+umap-learn
+mpl_toolkits
