@@ -1,7 +1,7 @@
 # EDA on Gene Expression 🧬💻
 
 This project explores different gene expression datasets for different medical cases using python. You get the opportunity to put your skills into practice and possibly learn new ones.
-These are to serve as examples of real-life use cases for **educational purposes**.
+These are to serve as examples of real-life use cases and exclusively for **educational purposes**.
 
 ## GSE2034
 With the GSE2034 breast cancer dataset, it performs basic exploratory data analysis to uncover patterns in gene expression levels across samples.
@@ -22,6 +22,9 @@ With the GSE2034 breast cancer dataset, it performs basic exploratory data analy
 4. Open Jupyter: `jupyter lab`
 
 
+## Extra Material
+
+[Here](https://www.notion.so/EDA-on-Gene-Expression-e74f532089ce4941a09dd78de56e5348?pvs=4) you can find extra material with suggestions and or references for further analyses
 
 ## ⚠️ Disclaimer
 
