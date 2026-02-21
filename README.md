@@ -49,10 +49,6 @@ Uunzip `GSE2034_series_matrix.txt.gz` and move it to the `data/raw/` folder of y
 
 ---
 
-## Extra Material
-
-[Here](https://www.notion.so/EDA-on-Gene-Expression-e74f532089ce4941a09dd78de56e5348?pvs=4) you can find extra material with suggestions and or references for further analyses
-
 ## Disclaimer
 
 This repository is intended **solely for educational purposes**. These notebooks are to serve as examples of real-life use cases. The approaches presented here reflect one possible way to explore gene expression data in a biomedical context, but they do **not cover all methodologies**, nor do they imply clinical or diagnostic validity.
