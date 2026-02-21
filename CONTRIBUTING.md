@@ -2,14 +2,14 @@
 
 Thank you for considering contributing to this project! Your help is appreciated, whether you're fixing bugs, adding new analyses, or improving documentation.
 
-## 🧠 Purpose
+## Purpose
 
 This project is meant to be a **learning resource for bioinformatics and exploratory data analysis (EDA)**. Please ensure that all contributions are:
 - Educational
 - Reproducible
 - Respectful of scientific and medical nuance
 
-## 🚀 How to Contribute
+## How to Contribute
 
 1. **Fork the repository**
 2. **Create a new branch**: `git checkout -b my-feature`
@@ -19,7 +19,7 @@ This project is meant to be a **learning resource for bioinformatics and explora
 6. **Push to the branch**: `git push origin my-feature`
 7. **Create a Pull Request**
 
-## 📁 Types of Contributions
+## Types of Contributions
 
 - New gene expression datasets and EDA notebooks
 - Visualization improvements
@@ -27,10 +27,10 @@ This project is meant to be a **learning resource for bioinformatics and explora
 - Bug fixes
 - Suggestions for best practices in data interpretation
 
-## 🙏 Code of Conduct
+## Code of Conduct
 
 Please keep all interactions respectful and constructive. Contributions that may lead to medical misinterpretation or are not properly documented will not be accepted.
 
-## 📜 Disclaimer
+## Disclaimer
 
 All contributions must clearly state that they are for educational purposes only and are **not intended for clinical use or medical decision-making**.
