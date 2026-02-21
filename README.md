@@ -8,9 +8,8 @@ We strongly encourage our fellow learners to:
 ## GSE2034
 With the GSE2034 breast cancer dataset, it performs basic exploratory data analysis to uncover patterns in gene expression levels across samples.
 
-### Dataset
-- Source: [GEO - GSE2034](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2034)
-- insight: `data/raw/GSE2034.md` walks you through the download process of GSE2034
+### Dataset source
+[GEO - GSE2034](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2034)
 
 ### Goals
 - Visualize expression distributions
